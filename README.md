@@ -1,6 +1,6 @@
 # Techila Setup Wizard for Google Colab
 
-This Jupyter Notebook connects your Google Colab with your Techila Distributed Computing Engine system.
+This Jupyter Notebook connects your Google Colab with your Techila Distributed Computing Engine system. This Notebook is based on the article posted on LinkedIn https://www.linkedin.com/pulse/1000x-speed-google-colab-tuomas-eerola/ 
 
 ## Getting Started
 
