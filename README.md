@@ -22,4 +22,4 @@ Before running any test applications, open the Techila Configuration Wizard on y
 
 ## Authors
 
-* **Tuomas Eerola** - *Initial work* - [PurpleBooth](https://github.com/eerolat)
+* **Tuomas Eerola** - *Initial work* - [GitHub](https://github.com/eerolat)
